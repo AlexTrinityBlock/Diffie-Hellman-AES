@@ -70,3 +70,6 @@ py Decrypt.py
 # Download Source file
 
 [DownloadSourceFIle](https://github.com/AlexTrinityBlock/Diffie-Hellman-AES/archive/refs/heads/master.zip)
+
+# Download Binary file
+[Ubuntu20.04](https://github.com/AlexTrinityBlock/Diffie-Hellman-AES/raw/master/Executable/Ubuntu20.04.zip)
